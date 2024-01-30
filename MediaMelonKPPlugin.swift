@@ -13,8 +13,9 @@ import os
 #if os(iOS)
   import CoreTelephony
 #endif
+
+#if canImport(PlayKit)
 import PlayKit
-import KalturaPlayer
 import MMGenericFramework
 
 class MediaMelonKPPlugin: BasePlugin, MMSmartStreamingObserver {
@@ -583,3 +584,5 @@ class MediaMelonKPPlugin: BasePlugin, MMSmartStreamingObserver {
         super.destroy()
     }
 }
+
+#endif
