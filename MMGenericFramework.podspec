@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MMGenericFramework"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "The MediaMelon Player SDK Provides SmartSight Analytics and QBR SmartStreaming."
   spec.description  = "The MediaMelon Player SDK adds SmartSight Analytics and QBR SmartStreaming capability to any media player and is available for all ABR media players."
   spec.homepage     = "https://github.com/venkataMM/MMGenericFramework"
@@ -12,6 +12,5 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "12.0"
   spec.swift_version = '5.0'
   spec.source       = { :git => "https://github.com/venkataMM/MMGenericFramework.git", :tag => spec.version.to_s }
-  spec.source_files  = "MMGenericFramework.xcframework/**/Headers/**/*.h"
   spec.vendored_frameworks = 'MMGenericFramework.xcframework'
 end
