@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MMGenericFramework",
-            url: "https://example.com/path/to/YourFramework.xcframework.zip", // Replace with the actual URL
-            checksum: "sha256:yourchecksum"  // Replace with the actual checksum
+            url: "https://github.com/venkataMM/MMGenericFramework/blob/main/MMGenericFramework.xcframework.zip",
+            checksum: "sha256:f2bbeb0f7a236025dd3e5a67efb9e10fddfa5f79d6efbfbe26fcc0f412f40c8e"
         )
     ]
 )
