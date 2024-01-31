@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BITSN8lu8XaWmoGzt25mksMAf6c=
+		IKH9cGdEfHISFp+cTSfQm7b0N2E=
 		</data>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		EquzFiczV9+XDXq4AZrjQ8a7NuU=
+		eIy1+ji1zRPCl9uHnak2F2qhTFA=
 		</data>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		zdby9YPuUqZETAXdxEEjwaN1c4s=
+		iKjoHPXeWxD+BWvfmtk5rEiNmKY=
 		</data>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		EquzFiczV9+XDXq4AZrjQ8a7NuU=
+		eIy1+ji1zRPCl9uHnak2F2qhTFA=
 		</data>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ru9RKR632MYrxrnKm4SmGZ4VSWo=
+		6Hj6ECzcgDdPeZsH5pf5IuHdhWQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,6 +57,10 @@
 	<dict>
 		<key>Headers/MMGenericFramework-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pT/Rrl8Ax54I8XQLiHEz0EXUSYs=
+			</data>
 			<key>hash2</key>
 			<data>
 			vQS79Cg0o2f4BaBTMlk3tGg3WvsSVlKFxdXQQwhuuuE=
@@ -64,6 +68,10 @@
 		</dict>
 		<key>Headers/MMGenericFramework.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NJTRclIm5c72ENQFcdai30LdnPE=
+			</data>
 			<key>hash2</key>
 			<data>
 			YPTkjOnjWX3AVnf9jbrBYYUGUQXr1eynA74Pl5SNDiQ=
@@ -71,6 +79,10 @@
 		</dict>
 		<key>Headers/MMSmartStreaming.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			jmRZ3FF4iGAdTudZrC2ACUOxhn4=
+			</data>
 			<key>hash2</key>
 			<data>
 			fZXTObPwyVHs4egRx7eIV40hzEFq4R9lWWpsDuI0CFg=
@@ -78,6 +90,10 @@
 		</dict>
 		<key>Headers/MMSmartStreamingSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			a8b80ZtJV4OSIdDJDnQY/weuO8M=
+			</data>
 			<key>hash2</key>
 			<data>
 			fyYV9Jm4KACCnGq0SvWqI1KE4b0qTuFu/+X+GXKcPQY=
@@ -85,6 +101,10 @@
 		</dict>
 		<key>Headers/objc_mmsmartstreaming.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AxPrhPHQPtk+DngiLKsx16f0ECI=
+			</data>
 			<key>hash2</key>
 			<data>
 			o1fn/5wKvvNYdFpjSvvKuLeefi4V5Kv3vcNzrpnFfRU=
@@ -92,6 +112,10 @@
 		</dict>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TY/HCNiEYs8/YmJpC8VdnL4JfAA=
+			</data>
 			<key>hash2</key>
 			<data>
 			fVjvNw10EUl80F8y84pa7EOmVbwmIFIhdan2R4EUcho=
@@ -99,34 +123,54 @@
 		</dict>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eIy1+ji1zRPCl9uHnak2F2qhTFA=
+			</data>
 			<key>hash2</key>
 			<data>
-			u9EXtvTO1FIgI0RAe6ghMVnFUwUxKaTiPzFkVl1VqX8=
+			Om/jAjpJ1n98IaX30C9AHKFGY5K5xLbv24ctAwvgcZA=
 			</data>
 		</dict>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iKjoHPXeWxD+BWvfmtk5rEiNmKY=
+			</data>
 			<key>hash2</key>
 			<data>
-			EQrv8hqzYykbpDluWEqEU6ZNIN0EqiIYzLmoKAA9SJ0=
+			TO2wpI79Ai8Bd0O982gTTg3AObJ5ObzOYcx/UXh65qQ=
 			</data>
 		</dict>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eIy1+ji1zRPCl9uHnak2F2qhTFA=
+			</data>
 			<key>hash2</key>
 			<data>
-			u9EXtvTO1FIgI0RAe6ghMVnFUwUxKaTiPzFkVl1VqX8=
+			Om/jAjpJ1n98IaX30C9AHKFGY5K5xLbv24ctAwvgcZA=
 			</data>
 		</dict>
 		<key>Modules/MMGenericFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6Hj6ECzcgDdPeZsH5pf5IuHdhWQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			N34vaKDD3o7DwZyX1MQVLKInjsKBAuUj+adwr28TPNo=
+			0nRsPabnfxOenhGcUHJ1YhmnpBRE8l+9fxBu9u0bZRE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eNOHt3vTUSltzGIRg603U3UYH1Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			kxJF5h0wJb4OBbPCsvo22rZjFivxFo9D2RdcCW+o8G4=
