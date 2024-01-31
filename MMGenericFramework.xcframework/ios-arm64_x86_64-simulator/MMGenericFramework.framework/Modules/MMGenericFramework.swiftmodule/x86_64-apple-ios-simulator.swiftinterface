@@ -98,62 +98,6 @@ extension MMGenericFramework.ReachabilityMM {
     get
   }
 }
-@_inheritsConvenienceInitializers @objc public class MediaMelonKPPluginConfig : ObjectiveC.NSObject {
-  @objc override dynamic public init()
-  public func setCustomerId(customerId: Swift.String)
-  public func getCustomerId() -> Swift.String
-  public func setDomainName(domainName: Swift.String)
-  public func getDomainName() -> Swift.String
-  public func setSubscriberTag(subscriberTag: Swift.String)
-  public func getSubscriberTag() -> Swift.String
-  public func setSubscriberId(subscriberId: Swift.String)
-  public func getSubscriberId() -> Swift.String
-  public func setSubscriberType(subscriberType: Swift.String)
-  public func getSubscriberType() -> Swift.String
-  public func setPlayerName(playerName: Swift.String)
-  public func getPlayerName() -> Swift.String
-  public func setPlayerVersion(playerVersion: Swift.String)
-  public func getPlayerVersion() -> Swift.String
-  public func setPlayerBrand(playerBrand: Swift.String)
-  public func getPlayerBrand() -> Swift.String
-  public func setPlayerModel(playerModel: Swift.String)
-  public func getPlayerModel() -> Swift.String
-  public func setAssetId(assetId: Swift.String)
-  public func getAssetId() -> Swift.String
-  public func setAssetName(assetName: Swift.String)
-  public func getAssetName() -> Swift.String
-  public func setVideoId(videoId: Swift.String)
-  public func getVideoId() -> Swift.String
-  public func setSeriesTitle(seriesTitle: Swift.String)
-  public func getSeriesTitle() -> Swift.String
-  public func setEpisodeNumber(episodeNumber: Swift.String)
-  public func getEpisodeNumber() -> Swift.String
-  public func setSeason(season: Swift.String)
-  public func getSeason() -> Swift.String
-  public func setContentType(contentType: Swift.String)
-  public func getContentType() -> Swift.String
-  public func setDrmProtection(drmProtection: Swift.String)
-  public func getDrmProtection() -> Swift.String
-  public func setGenre(genre: Swift.String)
-  public func getGenre() -> Swift.String
-  public func setAppName(appName: Swift.String)
-  public func getAppName() -> Swift.String
-  public func setAppVersion(appVersion: Swift.String)
-  public func getAppVersion() -> Swift.String
-  public func setDeviceMarketingName(deviceMarketingName: Swift.String)
-  public func getDeviceMarketingName() -> Swift.String
-  public func setVideoQuality(videoQuality: Swift.String)
-  public func getVideoQuality() -> Swift.String
-  public func setDeviceId(deviceId: Swift.String)
-  public func getDeviceId() -> Swift.String
-  public func addCustomTag(key: Swift.String, value: Swift.String)
-  public func getCustomTags() -> [Swift.String : Swift.String]
-  public func setDisableManifestFetch(disableManifestFetch: Swift.Bool)
-  public func getDisableManifestFetch() -> Swift.Bool
-  public func setHashSubscriberId(doHash: Swift.Bool)
-  public func getHashSubscriberId() -> Swift.Bool
-  @objc deinit
-}
 @objc public class MMRegistrationInformation : ObjectiveC.NSObject {
   public var customerID: Swift.String!
   public var component: Swift.String!

@@ -346,13 +346,6 @@ SWIFT_CLASS("_TtC18MMGenericFramework25MMRegistrationInformation")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-
-/// <h1>RemoteCommandCenterConfig</h1>
-SWIFT_CLASS("_TtC18MMGenericFramework24MediaMelonKPPluginConfig")
-@interface MediaMelonKPPluginConfig : NSObject
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
